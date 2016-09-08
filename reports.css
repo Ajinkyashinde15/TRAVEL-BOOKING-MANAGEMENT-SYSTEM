@@ -1,0 +1,11 @@
+body 	{font-family:tahoma, arial, sans-serif; font-size:10pt; color:#000; line-height:15pt;}
+h1 		{font-size:30pt; text-align:left; line-height:21pt; padding:10px; padding-left:40px;}
+h2		{ font-size:20pt; font-style:italic; text-align:left; line-height:21pt; padding:10px; padding-left:40px;}
+div 		{margin-top:10px;}
+table 	{ width:90%}
+td {padding:3px;}
+#withborder 	{ border:2px solid; }
+#withborder td, #withborder tr{border:2px solid;}
+
+#container {width:90%;}
+td	{text-align:left;}
